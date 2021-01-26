@@ -1,0 +1,10 @@
+2021-01-04 11:32:01,660: Staff 2 (diam.lorem@vitae.com) has viewed Patient 2's (ohill@thompson.biz) profile
+2021-01-04 11:34:00,247: Staff 2 (diam.lorem@vitae.com) viewed Patient 2's (ohill@thompson.biz) profile
+2021-01-04 11:34:35,328: Staff 2 (diam.lorem@vitae.com) viewed Patient 6's (gmiller@ramirez.com) profile
+2021-01-04 11:43:04,876: Staff 2 (diam.lorem@vitae.com) viewed Patient 1's (kennedychristine@gmail.com) profile
+2021-01-09 11:01:26,609: Staff 10 (gp@gmail.com) viewed Patient 3's (lindsey54@collins.biz) profile
+2021-01-09 11:01:37,111: Staff 10 (gp@gmail.com) viewed Patient 2's (ohill@thompson.biz) profile
+2021-01-09 11:01:47,596: Staff 10 (gp@gmail.com) viewed Patient 9's (wesley46@hotmail.com) profile
+2021-01-09 11:02:04,652: Staff 10 (gp@gmail.com) viewed Patient 5's (ruizwendy@yahoo.com) profile
+2021-01-09 11:02:17,537: Staff 10 (gp@gmail.com) viewed Patient 3's (lindsey54@collins.biz) profile
+2021-01-09 11:02:44,197: Staff 10 (gp@gmail.com) viewed Patient 10's (patient@gmail.com) profile
